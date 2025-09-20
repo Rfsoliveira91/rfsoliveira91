@@ -10,7 +10,7 @@ Sou Engenheira de Dados apaixonada por transformar dados em soluções inteligen
 ## 🌱 Sobre mim
 - 💃 Dançarina de jazz e stiletto nas horas vagas  
 - 📷 Apaixonada por fotografia (Canon 6D Mark II)  
-- ✈️ Exploradora de destinos históricos – Egito ✅, próximo destino: Grécia!  
+
 
 
 ## 💻 O que eu faço
