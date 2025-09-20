@@ -72,5 +72,5 @@ Sou Engenheira de Dados apaixonada por transformar dados em soluções inteligen
 
 
 ## 🚀 Projetos em Destaque
-- [**Motor de Regras Genérico** - Em andamento](#)
-  Engine dinâmica em Python para múltiplos segmentos de crédito.
+- [**Em andamento**](#)
+
